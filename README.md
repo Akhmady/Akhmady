@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 TALL Stacks Developer<br>📖 Currently learning React.js and MERN Stacks<br>🧑‍🎓 Gap Year student aiming to be a student at ITS Surabaya in 2027<br>
+💻 TALL Stacks Developer<br>📖 Currently learning React.js and MERN Stacks<br>🧑‍🎓 Currently gap year aiming to be a student at ITS Surabaya in 2027<br>
 
 
 ## 🌐 Socials:

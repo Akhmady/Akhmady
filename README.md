@@ -19,7 +19,7 @@
 
 <br />
 
-
+<h2 align="center"></h2>
 <div align="center">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="alpinejs logo" />

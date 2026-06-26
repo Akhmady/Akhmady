@@ -2,9 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Menjalankan aksi setiap hari pada pukul 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Menambahkan opsi untuk menjalankannya secara manual
+  workflow_dispatch:
+
+# Bagian ini sangat penting agar Action diizinkan membuat branch 'output'
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,7 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Generate gambar ular dari kontribusi pengguna
       - name: Generate Snake SVG
         uses: platane/snk/svg-only@v3
         with:
@@ -22,7 +24,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push file yang dihasilkan ke branch 'output'
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

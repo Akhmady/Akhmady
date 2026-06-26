@@ -22,12 +22,12 @@
 <!-- Section Bio Baru -->
 <h2 align="center"></h2>
 <p align="center">
-  
+  🖥️ TALL Stack Engineer<br>🖥️ Landing Page Developer<br>📖 Learning Fullstack React.js <br>🧑‍🎓 Gapyear student aiming to become a student for ITS in 2027<br>
 </p>
 
 <br />
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center"></h2>
 <div align="center">
   <!-- Baris 1 -->
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo" />&nbsp;&nbsp;&nbsp;&nbsp;

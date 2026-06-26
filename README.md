@@ -19,7 +19,7 @@
 
 <br />
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="alpinejs logo" />
@@ -28,7 +28,7 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="60" alt="vuejs logo" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="60" alt="vite logo" />
@@ -43,7 +43,7 @@
 
 <br />
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhmady&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats">
@@ -54,7 +54,7 @@
 
 <br />
 
-<h2 align="center">📅 Contribution Activity</h2>
+<h2 align="center"></h2>
 <div align="center">
   <a href="https://github.com/Akhmady">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhmady&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
@@ -81,7 +81,7 @@
 <br />
 
 <div align="center">
-  <p>👁️ Profile Views</p>
+  
   <img src="https://komarev.com/ghpvc/?username=Akhmady&color=58A6FF&style=flat-square" alt="Visitor Count" />
   <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" alt="Footer" />

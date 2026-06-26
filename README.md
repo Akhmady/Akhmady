@@ -53,33 +53,24 @@
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
 </div>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Akhmady&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Akhmady/Akhmady/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhmady&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhmady&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmady&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
 </div>
 
-###
+## 📅 Contribution Activity
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Akhmady/Akhmady/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Akhmady/Akhmady/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhmady&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/Akhmady)
+
 </div>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Akhmady.Akhmady&"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhmady/Akhmady/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhmady/Akhmady/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akhmady/Akhmady/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />

@@ -25,8 +25,6 @@
   🖥️ TALL Stack Engineer<br>🖥️ Landing Page Developer<br>📖 Learning Fullstack React.js <br>🧑‍🎓 Gapyear student aiming to become a student for ITS in 2027<br>
 </p>
 
-<br />
-
 <h2 align="center"></h2>
 <div align="center">
   <!-- Baris 1 -->

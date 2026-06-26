@@ -2,6 +2,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&text=Akhmad%20Yusuf&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer;Open%20Source%20Enthusiast)](https://git.io/typing-svg)
+
 ###
 
 <div data-importer="socials" align="center">

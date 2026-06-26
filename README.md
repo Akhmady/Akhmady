@@ -22,8 +22,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://githubusercontent.com" height="60" alt="Livewire Logo" />
-  <img width="12" />
+ <img src="https://raw.githubusercontent.com/codeat3/blade-simple-icons/main/icons/si-livewire.svg" height="60" alt="Livewire Logo" />>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />

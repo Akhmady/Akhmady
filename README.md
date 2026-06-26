@@ -12,13 +12,14 @@
   <a href="https://discord.com/924315361678082138" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="mailto:akhmadyco@gmai.com" target="_blank">
+  <a href="mailto:akhmadyco@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
-<br />
+<hr />
 
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="alpinejs logo" />
@@ -40,8 +41,9 @@
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo" />
 </div>
 
-<br />
+<hr />
 
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhmady&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats">
@@ -50,16 +52,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmady&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
-## 📅 Contribution Activity
+<hr />
 
+<h2 align="center">📅 Contribution Activity</h2>
 <div align="center">
   <a href="https://github.com/Akhmady">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhmady&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
   </a>
 </div>
 
-<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Akhmady/Akhmady/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+<hr />
 
 <div align="center">
+  <p>👁️ Profile Views</p>
+  <img src="https://komarev.com/normal-badge/?username=Akhmady&color=58A6FF&style=flat-square" alt="Visitor Count" />
+  <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" alt="Footer" />
 </div>

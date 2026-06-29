@@ -9,7 +9,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akhmadyco@gmail.com&su=Hello%20Akhmad" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 <a href="https://discord.com/users/924315361678082138" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
 </a>
